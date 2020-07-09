@@ -1,0 +1,686 @@
+19:16:19.988: CoInitializeEx succeeded: 0x00000001
+19:16:19.988: CPU Name: AMD Ryzen 5 2600 Six-Core Processor            
+19:16:19.988: CPU Speed: 3394MHz
+19:16:19.988: Physical Cores: 6, Logical Cores: 12
+19:16:19.989: Physical Memory: 16312MB Total, 13030MB Free
+19:16:19.989: Windows Version: 10.0 Build 18363 (release: 1909; revision: 900; 64-bit)
+19:16:19.989: Running as administrator: false
+19:16:19.989: Aero is Enabled (Aero is always on for windows 8 and above)
+19:16:19.989: Windows 10 Gaming Features:
+19:16:19.989: 	Game Bar: On
+19:16:19.989: 	Game DVR: On
+19:16:19.989: 	Game DVR Background Recording: Off
+19:16:19.989: 	Game Mode: On
+19:16:19.994: Sec. Software Status:
+19:16:19.995: Current Date/Time: 2020-07-09, 19:16:19
+19:16:19.995: Browser Hardware Acceleration: false
+19:16:19.995: Portable mode: false
+19:16:20.320: OBS 25.0.8 (64-bit, windows)
+19:16:20.320: ---------------------------------
+19:16:20.335: ---------------------------------
+19:16:20.335: audio settings reset:
+19:16:20.335: 	samples per sec: 44100
+19:16:20.335: 	speakers:        2
+19:16:20.336: ---------------------------------
+19:16:20.336: Initializing D3D11...
+19:16:20.336: Available Video Adapters: 
+19:16:20.338: 	Adapter 0: NVIDIA GeForce RTX 2060 SUPER
+19:16:20.338: 	  Dedicated VRAM: 4126146560
+19:16:20.338: 	  Shared VRAM:    4257536000
+19:16:20.338: 	  PCI ID:         10de:1f06
+19:16:20.339: 	  Driver Version: 27.21.14.5148
+19:16:20.339: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=120, name=C24FG7x
+19:16:20.339: 	  output 1: pos={-1920, 0}, size={1920, 1080}, attached=true, refresh=60, name=SMT22A300
+19:16:20.341: Loading up D3D11 on adapter NVIDIA GeForce RTX 2060 SUPER (0)
+19:16:20.415: D3D11 loaded successfully, feature level used: b000
+19:16:20.415: DXGI increase maximum frame latency success
+19:16:20.415: D3D11 GPU priority setup failed (not admin?)
+19:16:20.915: ---------------------------------
+19:16:20.915: video settings reset:
+19:16:20.915: 	base resolution:   1920x1080
+19:16:20.915: 	output resolution: 1280x720
+19:16:20.915: 	downscale filter:  Bilinear
+19:16:20.915: 	fps:               60/1
+19:16:20.915: 	format:            NV12
+19:16:20.915: 	YUV mode:          601/Partial
+19:16:20.915: NV12 texture support enabled
+19:16:20.917: Audio monitoring device:
+19:16:20.917: 	name: Predefinito
+19:16:20.917: 	id: default
+19:16:20.917: ---------------------------------
+19:16:20.929: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+19:16:20.930: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+19:16:20.973: [AMF] Unable to load 'amfrt64.dll', error code 126.
+19:16:20.975: [AMF] AMF Test failed due to one or more errors.
+19:16:20.975: Failed to initialize module 'enc-amf.dll'
+19:16:21.079: [obs-browser]: Version 2.8.6
+19:16:21.130: NVENC supported
+19:16:21.401: Couldn't find VLC installation, VLC video source disabled
+19:16:21.434: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:16:21.435: No blackmagic support
+19:16:21.462: ---------------------------------
+19:16:21.462:   Loaded Modules:
+19:16:21.462:     win-wasapi.dll
+19:16:21.462:     win-mf.dll
+19:16:21.462:     win-dshow.dll
+19:16:21.462:     win-decklink.dll
+19:16:21.462:     win-capture.dll
+19:16:21.462:     vlc-video.dll
+19:16:21.462:     text-freetype2.dll
+19:16:21.462:     rtmp-services.dll
+19:16:21.462:     obs-x264.dll
+19:16:21.462:     obs-vst.dll
+19:16:21.462:     obs-transitions.dll
+19:16:21.462:     obs-text.dll
+19:16:21.462:     obs-qsv11.dll
+19:16:21.462:     obs-outputs.dll
+19:16:21.462:     obs-filters.dll
+19:16:21.462:     obs-ffmpeg.dll
+19:16:21.462:     obs-browser.dll
+19:16:21.462:     logi_obs_plugin_x64.dll
+19:16:21.462:     image-source.dll
+19:16:21.462:     frontend-tools.dll
+19:16:21.462:     enc-amf.dll
+19:16:21.462:     decklink-ouput-ui.dll
+19:16:21.462:     coreaudio-encoder.dll
+19:16:21.462: ---------------------------------
+19:16:21.474: ==== Startup complete ===============================================
+19:16:21.500: All scene data cleared
+19:16:21.500: ------------------------------------------------
+19:16:21.546: WASAPI: Device 'VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)' [44100 Hz] initialized
+19:16:21.546: [Loaded global audio device]: 'Microfono/disp. ausiliario'
+19:16:21.601: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Microfono/disp. ausiliario)
+19:16:21.601: 
+19:16:22.224: WASAPI: Device 'Microphone (3- Trust GXT 232 Microphone)' [48000 Hz] initialized
+19:16:22.352: [Media Source 'Sfondo Dinamico']: settings:
+19:16:22.352: 	input:                   C:/Users/White Fam/Pictures/SLOBS/Apex_Overlay/Apex_Overlay/Hue Adjust Friendly Version/Screens/Stream_Screen_BG.mp4
+19:16:22.352: 	input_format:            (null)
+19:16:22.352: 	speed:                   100
+19:16:22.352: 	is_looping:              yes
+19:16:22.352: 	is_hw_decoding:          no
+19:16:22.352: 	is_clear_on_media_end:   yes
+19:16:22.352: 	restart_on_activate:     yes
+19:16:22.352: 	close_when_inactive:     no
+19:16:22.414: ---------------------------------
+19:16:22.414: [DShow Device: 'Logi Webcam'] settings updated: 
+19:16:22.414: 	video device: HD Pro Webcam C920
+19:16:22.414: 	video path: \\?\usb#vid_046d&pid_082d&mi_00#7&29c79324&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+19:16:22.414: 	resolution: 640x480
+19:16:22.414: 	flip: 0
+19:16:22.414: 	fps: 30.00 (interval: 333333)
+19:16:22.414: 	format: YUY2
+19:16:22.915: [Media Source 'NerdOrDie Stinger (Stinger)']: settings:
+19:16:22.915: 	input:                   C:/Users/White Fam/Pictures/SLOBS/Apex_Overlay/Apex_Overlay/Hue Adjust Friendly Version/Stinger/media.io_Stinger_Transition.webm
+19:16:22.915: 	input_format:            (null)
+19:16:22.915: 	speed:                   100
+19:16:22.915: 	is_looping:              no
+19:16:22.915: 	is_hw_decoding:          no
+19:16:22.915: 	is_clear_on_media_end:   yes
+19:16:22.915: 	restart_on_activate:     yes
+19:16:22.915: 	close_when_inactive:     no
+19:16:22.916: Switched to scene 'In Game - Hyperscape'
+19:16:22.926: ------------------------------------------------
+19:16:22.926: Loaded scenes:
+19:16:22.926: - scene 'Stream Starting':
+19:16:22.926:     - source: 'Sfondo Dinamico' (ffmpeg_source)
+19:16:22.926:     - source: 'Stream Starting (testo) 3' (text_gdiplus_v2)
+19:16:22.926:     - source: 'Immagine 2' (image_source)
+19:16:22.926: - scene 'Stream BRB':
+19:16:22.926:     - source: 'Sfondo Dinamico' (ffmpeg_source)
+19:16:22.926:     - source: 'Immagine' (image_source)
+19:16:22.926:     - source: 'Stream Starting (testo) 2' (text_gdiplus_v2)
+19:16:22.926: - scene 'In Game - Apex':
+19:16:22.926:     - source: 'Cattura gioco - ApeX' (game_capture)
+19:16:22.926:     - source: 'Mic TRUST' (wasapi_input_capture)
+19:16:22.926:         - filter: 'Espansore' (expander_filter)
+19:16:22.926:         - filter: 'Compressore' (compressor_filter)
+19:16:22.926:         - filter: 'EQ' (vst_filter)
+19:16:22.926:         - filter: 'Guadagno' (gain_filter)
+19:16:22.926:     - source: 'Webcam 2' (group)
+19:16:22.926:         - source: 'Logi Webcam' (dshow_input)
+19:16:22.926:         - source: 'Cornice Webcam' (image_source)
+19:16:22.926:             - filter: 'Arancione to Verde' (color_filter)
+19:16:22.926:     - source: 'Streamelements - Store' (browser_source)
+19:16:22.926:     - source: 'Streamlabs - Alert' (browser_source)
+19:16:22.926: - scene 'In Game - Overwatch':
+19:16:22.926:     - source: 'Cattura gioco - OW' (game_capture)
+19:16:22.926:     - source: 'Mic TRUST' (wasapi_input_capture)
+19:16:22.926:         - filter: 'Espansore' (expander_filter)
+19:16:22.926:         - filter: 'Compressore' (compressor_filter)
+19:16:22.926:         - filter: 'EQ' (vst_filter)
+19:16:22.926:         - filter: 'Guadagno' (gain_filter)
+19:16:22.926:     - source: 'Webcam' (group)
+19:16:22.926:         - source: 'Logi Webcam' (dshow_input)
+19:16:22.926:         - source: 'Cornice Webcam' (image_source)
+19:16:22.926:             - filter: 'Arancione to Verde' (color_filter)
+19:16:22.926:     - source: 'Streamelements - Store' (browser_source)
+19:16:22.926:     - source: 'Streamlabs - Alert' (browser_source)
+19:16:22.926: - scene 'In Game - Hyperscape':
+19:16:22.926:     - source: 'Cattura Gioco - Hyper' (game_capture)
+19:16:22.926:     - source: 'Mic TRUST' (wasapi_input_capture)
+19:16:22.926:         - filter: 'Espansore' (expander_filter)
+19:16:22.926:         - filter: 'Compressore' (compressor_filter)
+19:16:22.926:         - filter: 'EQ' (vst_filter)
+19:16:22.926:         - filter: 'Guadagno' (gain_filter)
+19:16:22.926:     - source: 'Webcam 3' (group)
+19:16:22.926:         - source: 'Logi Webcam' (dshow_input)
+19:16:22.926:         - source: 'Cornice Webcam' (image_source)
+19:16:22.926:             - filter: 'Arancione to Verde' (color_filter)
+19:16:22.926:     - source: 'Streamelements - Store' (browser_source)
+19:16:22.926:     - source: 'Streamlabs - Alert' (browser_source)
+19:16:22.926: - scene 'Schermo 1':
+19:16:22.926:     - source: 'Cattura lo schermo' (monitor_capture)
+19:16:22.926:     - source: 'Webcam 4' (group)
+19:16:22.926:         - source: 'Logi Webcam' (dshow_input)
+19:16:22.926:         - source: 'Cornice Webcam' (image_source)
+19:16:22.926:             - filter: 'Arancione to Verde' (color_filter)
+19:16:22.926:     - source: 'Mic TRUST' (wasapi_input_capture)
+19:16:22.926:         - filter: 'Espansore' (expander_filter)
+19:16:22.926:         - filter: 'Compressore' (compressor_filter)
+19:16:22.926:         - filter: 'EQ' (vst_filter)
+19:16:22.926:         - filter: 'Guadagno' (gain_filter)
+19:16:22.926:     - source: 'Streamelements - Store' (browser_source)
+19:16:22.926:     - source: 'Streamlabs - Alert' (browser_source)
+19:16:22.926: - scene 'Solo Webcam':
+19:16:22.926:     - source: 'Sfondo Dinamico' (ffmpeg_source)
+19:16:22.926:     - source: 'Webcam' (group)
+19:16:22.926:         - source: 'Logi Webcam' (dshow_input)
+19:16:22.926:         - source: 'Cornice Webcam' (image_source)
+19:16:22.926:             - filter: 'Arancione to Verde' (color_filter)
+19:16:22.926:     - source: 'Streamelements - Store' (browser_source)
+19:16:22.926:     - source: 'Mic TRUST' (wasapi_input_capture)
+19:16:22.926:         - filter: 'Espansore' (expander_filter)
+19:16:22.926:         - filter: 'Compressore' (compressor_filter)
+19:16:22.926:         - filter: 'EQ' (vst_filter)
+19:16:22.926:         - filter: 'Guadagno' (gain_filter)
+19:16:22.926:     - source: 'Streamlabs - Alert' (browser_source)
+19:16:22.926: - scene 'Fine stream':
+19:16:22.926:     - source: 'Sfondo Dinamico' (ffmpeg_source)
+19:16:22.926:     - source: 'Stream Starting (testo)' (text_gdiplus_v2)
+19:16:22.926:     - source: 'Immagine 3' (image_source)
+19:16:22.927: ------------------------------------------------
+19:18:07.053: [jim-nvenc: 'simple_h264_recording'] settings:
+19:18:07.053: 	rate_control: CQP
+19:18:07.053: 	bitrate:      0
+19:18:07.053: 	cqp:          21
+19:18:07.053: 	keyint:       250
+19:18:07.053: 	preset:       hq
+19:18:07.053: 	profile:      high
+19:18:07.053: 	width:        1280
+19:18:07.053: 	height:       720
+19:18:07.053: 	2-pass:       false
+19:18:07.053: 	b-frames:     2
+19:18:07.053: 	lookahead:    false
+19:18:07.053: 	psycho_aq:    true
+19:18:07.053: 
+19:18:07.061: ---------------------------------
+19:18:07.062: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+19:18:07.062: 
+19:18:07.084: ==== Recording Start ===============================================
+19:18:07.084: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/White Fam/Videos/2020-07-09 19-18-06.mkv'...
+19:18:29.683: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/White Fam/Videos/2020-07-09 19-18-06.mkv' stopped
+19:18:29.683: Output 'simple_file_output': stopping
+19:18:29.683: Output 'simple_file_output': Total frames output: 1347
+19:18:29.683: Output 'simple_file_output': Total drawn frames: 1356
+19:18:29.684: ==== Recording Stop ================================================
+19:18:29.734: warning: 2 frames left in the queue on closing
+19:20:05.490: User switched to scene 'In Game - Apex'
+19:22:05.269: [jim-nvenc: 'simple_h264_recording'] settings:
+19:22:05.269: 	rate_control: CQP
+19:22:05.269: 	bitrate:      0
+19:22:05.269: 	cqp:          21
+19:22:05.269: 	keyint:       250
+19:22:05.269: 	preset:       hq
+19:22:05.269: 	profile:      high
+19:22:05.269: 	width:        1280
+19:22:05.269: 	height:       720
+19:22:05.269: 	2-pass:       false
+19:22:05.269: 	b-frames:     2
+19:22:05.269: 	lookahead:    false
+19:22:05.269: 	psycho_aq:    true
+19:22:05.269: 
+19:22:05.277: ---------------------------------
+19:22:05.278: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+19:22:05.278: 
+19:22:05.286: ==== Recording Start ===============================================
+19:22:05.286: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/White Fam/Videos/2020-07-09 19-22-05.mkv'...
+19:22:55.900: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+19:22:55.904: [game-capture: 'Cattura gioco - ApeX'] using helper (compatibility hook)
+19:22:55.925: [game-capture: 'Cattura gioco - ApeX'] hook not loaded yet, retrying..
+19:22:58.917: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+19:22:59.175: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:22:59.183: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:23:37.107: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+19:23:37.124: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:23:37.134: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:24:14.948: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+19:24:14.969: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:24:14.984: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:26:31.187: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+19:26:31.209: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:26:31.217: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:28:54.720: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/White Fam/Videos/2020-07-09 19-22-05.mkv' stopped
+19:28:54.720: Output 'simple_file_output': stopping
+19:28:54.720: Output 'simple_file_output': Total frames output: 24555
+19:28:54.720: Output 'simple_file_output': Total drawn frames: 24561 (24566 attempted)
+19:28:54.720: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 5 (0.0%)
+19:28:54.720: ==== Recording Stop ================================================
+19:28:54.720: Video stopped, number of skipped frames due to encoding lag: 12/24565 (0.0%)
+19:28:54.762: warning: 2 frames left in the queue on closing
+19:32:24.018: [jim-nvenc: 'simple_h264_recording'] settings:
+19:32:24.018: 	rate_control: CQP
+19:32:24.018: 	bitrate:      0
+19:32:24.018: 	cqp:          21
+19:32:24.018: 	keyint:       250
+19:32:24.018: 	preset:       hq
+19:32:24.018: 	profile:      high
+19:32:24.018: 	width:        1280
+19:32:24.018: 	height:       720
+19:32:24.018: 	2-pass:       false
+19:32:24.018: 	b-frames:     2
+19:32:24.018: 	lookahead:    false
+19:32:24.018: 	psycho_aq:    true
+19:32:24.018: 
+19:32:24.027: ---------------------------------
+19:32:24.027: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+19:32:24.027: 
+19:32:24.053: ==== Recording Start ===============================================
+19:32:24.053: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/White Fam/Videos/2020-07-09 19-32-23.mkv'...
+19:32:37.266: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+19:32:37.283: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:32:37.284: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:32:45.781: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/White Fam/Videos/2020-07-09 19-32-23.mkv' stopped
+19:32:45.781: Output 'simple_file_output': stopping
+19:32:45.781: Output 'simple_file_output': Total frames output: 1295
+19:32:45.781: Output 'simple_file_output': Total drawn frames: 1303
+19:32:45.781: ==== Recording Stop ================================================
+19:32:45.818: warning: 2 frames left in the queue on closing
+19:33:59.624: [jim-nvenc: 'simple_h264_recording'] settings:
+19:33:59.624: 	rate_control: CQP
+19:33:59.624: 	bitrate:      0
+19:33:59.624: 	cqp:          21
+19:33:59.624: 	keyint:       250
+19:33:59.624: 	preset:       hq
+19:33:59.624: 	profile:      high
+19:33:59.624: 	width:        1280
+19:33:59.624: 	height:       720
+19:33:59.624: 	2-pass:       false
+19:33:59.624: 	b-frames:     2
+19:33:59.624: 	lookahead:    false
+19:33:59.624: 	psycho_aq:    true
+19:33:59.624: 
+19:33:59.633: ---------------------------------
+19:33:59.633: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+19:33:59.633: 
+19:33:59.658: ==== Recording Start ===============================================
+19:33:59.658: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/White Fam/Videos/2020-07-09 19-33-59.mkv'...
+19:34:13.677: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/White Fam/Videos/2020-07-09 19-33-59.mkv' stopped
+19:34:13.677: Output 'simple_file_output': stopping
+19:34:13.677: Output 'simple_file_output': Total frames output: 832
+19:34:13.677: Output 'simple_file_output': Total drawn frames: 841
+19:34:13.678: ==== Recording Stop ================================================
+19:34:13.717: warning: 2 frames left in the queue on closing
+19:35:59.622: [jim-nvenc: 'simple_h264_recording'] settings:
+19:35:59.622: 	rate_control: CQP
+19:35:59.622: 	bitrate:      0
+19:35:59.622: 	cqp:          21
+19:35:59.622: 	keyint:       250
+19:35:59.622: 	preset:       hq
+19:35:59.622: 	profile:      high
+19:35:59.622: 	width:        1280
+19:35:59.622: 	height:       720
+19:35:59.622: 	2-pass:       false
+19:35:59.622: 	b-frames:     2
+19:35:59.622: 	lookahead:    false
+19:35:59.622: 	psycho_aq:    true
+19:35:59.622: 
+19:35:59.632: ---------------------------------
+19:35:59.633: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+19:35:59.633: 
+19:35:59.658: ==== Recording Start ===============================================
+19:35:59.659: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/White Fam/Videos/2020-07-09 19-35-59.mkv'...
+19:37:26.694: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/White Fam/Videos/2020-07-09 19-35-59.mkv' stopped
+19:37:26.695: Output 'simple_file_output': stopping
+19:37:26.695: Output 'simple_file_output': Total frames output: 5213
+19:37:26.695: Output 'simple_file_output': Total drawn frames: 5222
+19:37:26.695: ==== Recording Stop ================================================
+19:37:26.731: warning: 2 frames left in the queue on closing
+19:38:31.638: Settings changed (stream 1)
+19:38:31.638: ------------------------------------------------
+19:38:35.383: [jim-nvenc: 'simple_h264_stream'] settings:
+19:38:35.383: 	rate_control: CBR
+19:38:35.383: 	bitrate:      5000
+19:38:35.383: 	cqp:          20
+19:38:35.383: 	keyint:       120
+19:38:35.383: 	preset:       hq
+19:38:35.383: 	profile:      high
+19:38:35.383: 	width:        1280
+19:38:35.383: 	height:       720
+19:38:35.383: 	2-pass:       false
+19:38:35.383: 	b-frames:     2
+19:38:35.383: 	lookahead:    false
+19:38:35.383: 	psycho_aq:    true
+19:38:35.383: 
+19:38:35.392: ---------------------------------
+19:38:35.392: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+19:38:35.392: 
+19:38:35.393: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://live-mil.twitch.tv/app...
+19:38:35.445: [rtmp stream: 'simple_stream'] Interface: Intel(R) I211 Gigabit Network Connection (ethernet, 1000 mbps)
+19:38:36.245: [rtmp stream: 'simple_stream'] Connection to rtmp://live-mil.twitch.tv/app successful
+19:38:36.250: ==== Streaming Start ===============================================
+19:38:39.038: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+19:38:39.049: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:38:39.050: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:42:00.135: [rtmp stream: 'simple_stream'] User stopped the stream
+19:42:00.135: Output 'simple_stream': stopping
+19:42:00.135: Output 'simple_stream': Total frames output: 12225
+19:42:00.135: Output 'simple_stream': Total drawn frames: 12285
+19:42:00.138: ==== Streaming Stop ================================================
+19:42:00.178: warning: 2 frames left in the queue on closing
+19:42:08.312: Settings changed (stream 1)
+19:42:08.312: ------------------------------------------------
+19:42:11.772: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+19:42:11.789: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+19:42:11.800: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+19:50:15.583: [game-capture: 'Cattura gioco - ApeX'] capture window no longer exists, terminating capture
+19:50:15.583: [game-capture: 'Cattura gioco - ApeX'] capture stopped
+20:41:54.751: User switched to scene 'Stream Starting'
+20:46:23.811: [jim-nvenc: 'simple_h264_stream'] settings:
+20:46:23.811: 	rate_control: CBR
+20:46:23.811: 	bitrate:      5000
+20:46:23.811: 	cqp:          20
+20:46:23.811: 	keyint:       120
+20:46:23.811: 	preset:       hq
+20:46:23.811: 	profile:      high
+20:46:23.811: 	width:        1280
+20:46:23.811: 	height:       720
+20:46:23.811: 	2-pass:       false
+20:46:23.811: 	b-frames:     2
+20:46:23.811: 	lookahead:    false
+20:46:23.811: 	psycho_aq:    true
+20:46:23.811: 
+20:46:23.820: ---------------------------------
+20:46:23.820: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+20:46:23.820: 
+20:46:23.821: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://live-mil.twitch.tv/app...
+20:46:23.868: [rtmp stream: 'simple_stream'] Interface: Intel(R) I211 Gigabit Network Connection (ethernet, 1000 mbps)
+20:46:25.433: [rtmp stream: 'simple_stream'] Connection to rtmp://live-mil.twitch.tv/app successful
+20:46:25.439: ==== Streaming Start ===============================================
+20:49:35.695: User switched to scene 'Solo Webcam'
+20:50:24.091: User switched to scene 'In Game - Overwatch'
+20:51:11.484: [game-capture: 'Cattura gioco - OW'] attempting to hook process: Overwatch.exe
+20:51:11.487: [game-capture: 'Cattura gioco - OW'] using helper (compatibility hook)
+20:51:11.489: [game-capture: 'Cattura gioco - OW'] hook not loaded yet, retrying..
+20:51:14.500: [game-capture: 'Cattura gioco - OW'] attempting to hook process: Overwatch.exe
+20:51:14.515: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+20:51:14.517: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+21:34:14.382: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+21:34:14.385: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+21:34:14.400: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+21:37:49.991: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+21:37:49.994: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+21:37:50.000: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+21:48:37.266: [game-capture: 'Cattura gioco - OW'] capture window no longer exists, terminating capture
+21:48:37.268: [game-capture: 'Cattura gioco - OW'] capture stopped
+21:48:38.784: User switched to scene 'In Game - Apex'
+21:49:11.983: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+21:49:11.988: [game-capture: 'Cattura gioco - ApeX'] using helper (compatibility hook)
+21:49:12.009: [game-capture: 'Cattura gioco - ApeX'] hook not loaded yet, retrying..
+21:49:15.000: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+21:49:15.244: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+21:49:15.250: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+21:49:41.615: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+21:49:41.634: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+21:49:41.650: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+22:20:14.084: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+22:20:14.100: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+22:20:14.117: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+22:40:53.116: [game-capture: 'Cattura gioco - ApeX'] capture window no longer exists, terminating capture
+22:40:53.117: [game-capture: 'Cattura gioco - ApeX'] capture stopped
+22:40:54.635: User switched to scene 'Solo Webcam'
+22:41:05.658: [rtmp stream: 'simple_stream'] User stopped the stream
+22:41:05.659: Output 'simple_stream': stopping
+22:41:05.659: Output 'simple_stream': Total frames output: 412803
+22:41:05.659: Output 'simple_stream': Total drawn frames: 412908 (412910 attempted)
+22:41:05.659: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+22:41:05.659: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+22:41:05.659: Video stopped, number of skipped frames due to encoding lag: 2/412811 (0.0%)
+22:41:05.662: ==== Streaming Stop ================================================
+22:41:05.704: warning: 2 frames left in the queue on closing
+23:05:43.094: User switched to scene 'In Game - Overwatch'
+23:06:26.950: ---------------------------------
+23:06:26.950: [DShow Device: 'Logi Webcam'] settings updated: 
+23:06:26.950: 	video device: HD Pro Webcam C920
+23:06:26.950: 	video path: \\?\usb#vid_046d&pid_082d&mi_00#7&29c79324&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+23:06:26.950: 	resolution: 640x480
+23:06:26.950: 	flip: 0
+23:06:26.950: 	fps: 30.00 (interval: 333333)
+23:06:26.950: 	format: YUY2
+23:21:35.092: Settings changed (stream 1)
+23:21:35.092: ------------------------------------------------
+23:22:23.957: [jim-nvenc: 'simple_h264_stream'] settings:
+23:22:23.957: 	rate_control: CBR
+23:22:23.957: 	bitrate:      5000
+23:22:23.957: 	cqp:          20
+23:22:23.957: 	keyint:       120
+23:22:23.957: 	preset:       hq
+23:22:23.957: 	profile:      high
+23:22:23.957: 	width:        1280
+23:22:23.957: 	height:       720
+23:22:23.957: 	2-pass:       false
+23:22:23.957: 	b-frames:     2
+23:22:23.957: 	lookahead:    false
+23:22:23.957: 	psycho_aq:    true
+23:22:23.957: 
+23:22:23.966: ---------------------------------
+23:22:23.966: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+23:22:23.966: 
+23:22:23.968: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://live-mil.twitch.tv/app...
+23:22:24.014: [rtmp stream: 'simple_stream'] Interface: Intel(R) I211 Gigabit Network Connection (ethernet, 1000 mbps)
+23:22:24.700: [rtmp stream: 'simple_stream'] Connection to rtmp://live-mil.twitch.tv/app successful
+23:22:24.705: ==== Streaming Start ===============================================
+23:26:43.513: User switched to scene 'In Game - Apex'
+23:26:46.533: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+23:26:46.537: [game-capture: 'Cattura gioco - ApeX'] using helper (compatibility hook)
+23:26:46.558: [game-capture: 'Cattura gioco - ApeX'] hook not loaded yet, retrying..
+23:26:49.550: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+23:26:49.692: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+23:26:49.700: [game-capture: 'Cattura gioco - ApeX'] Hooked DXGI
+23:26:49.700: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+23:27:52.516: [game-capture: 'Cattura gioco - ApeX'] capture window no longer exists, terminating capture
+23:27:52.516: [game-capture: 'Cattura gioco - ApeX'] capture stopped
+23:28:01.429: User switched to scene 'In Game - Overwatch'
+23:28:12.517: [game-capture: 'Cattura gioco - OW'] attempting to hook process: Overwatch.exe
+23:28:12.520: [game-capture: 'Cattura gioco - OW'] using helper (compatibility hook)
+23:28:12.522: [game-capture: 'Cattura gioco - OW'] hook not loaded yet, retrying..
+23:28:15.533: [game-capture: 'Cattura gioco - OW'] attempting to hook process: Overwatch.exe
+23:28:15.547: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:28:15.550: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:29:42.101: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:29:42.107: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:29:42.116: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:30:13.363: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:30:13.366: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:30:13.366: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:30:23.919: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:30:23.929: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:30:23.933: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:33:19.004: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:33:19.007: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:33:19.016: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:33:57.976: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:33:57.978: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:33:57.983: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:34:13.397: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:34:13.399: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:34:13.416: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:34:31.355: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:34:31.364: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:34:31.366: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:35:36.360: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:35:36.363: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:35:36.366: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:41:57.223: [game-capture: 'Cattura gioco - OW'] ----------------- d3d11 capture freed ----------------
+23:41:57.225: [game-capture: 'Cattura gioco - OW'] d3d11 shared texture capture successful
+23:41:57.233: [game-capture: 'Cattura gioco - OW'] shared texture capture successful
+23:45:56.516: [game-capture: 'Cattura gioco - OW'] capture window no longer exists, terminating capture
+23:45:56.517: [game-capture: 'Cattura gioco - OW'] capture stopped
+23:48:00.001: [rtmp stream: 'simple_stream'] User stopped the stream
+23:48:00.001: Output 'simple_stream': stopping
+23:48:00.001: Output 'simple_stream': Total frames output: 92102
+23:48:00.001: Output 'simple_stream': Total drawn frames: 92142 (92162 attempted)
+23:48:00.001: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 20 (0.0%)
+23:48:00.001: Video stopped, number of skipped frames due to encoding lag: 21/92116 (0.0%)
+23:48:00.004: ==== Streaming Stop ================================================
+23:48:00.055: warning: 2 frames left in the queue on closing
+23:50:23.529: [jim-nvenc: 'simple_h264_stream'] settings:
+23:50:23.529: 	rate_control: CBR
+23:50:23.529: 	bitrate:      5000
+23:50:23.529: 	cqp:          20
+23:50:23.529: 	keyint:       120
+23:50:23.529: 	preset:       hq
+23:50:23.529: 	profile:      high
+23:50:23.529: 	width:        1280
+23:50:23.529: 	height:       720
+23:50:23.529: 	2-pass:       false
+23:50:23.529: 	b-frames:     2
+23:50:23.529: 	lookahead:    false
+23:50:23.529: 	psycho_aq:    true
+23:50:23.529: 
+23:50:23.539: ---------------------------------
+23:50:23.539: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+23:50:23.539: 
+23:50:23.540: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://live-mil.twitch.tv/app...
+23:50:23.612: [rtmp stream: 'simple_stream'] Interface: Intel(R) I211 Gigabit Network Connection (ethernet, 1000 mbps)
+23:50:24.211: [rtmp stream: 'simple_stream'] Connection to rtmp://live-mil.twitch.tv/app successful
+23:50:24.216: ==== Streaming Start ===============================================
+00:05:09.767: User switched to scene 'In Game - Apex'
+00:05:12.800: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+00:05:12.804: [game-capture: 'Cattura gioco - ApeX'] using helper (compatibility hook)
+00:05:12.824: [game-capture: 'Cattura gioco - ApeX'] hook not loaded yet, retrying..
+00:05:15.817: [game-capture: 'Cattura gioco - ApeX'] attempting to hook process: r5apex.exe
+00:05:15.970: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+00:05:15.974: [game-capture: 'Cattura gioco - ApeX'] Hooked DXGI
+00:05:15.983: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+00:12:32.546: [rtmp stream: 'simple_stream'] User stopped the stream
+00:12:32.546: Output 'simple_stream': stopping
+00:12:32.546: Output 'simple_stream': Total frames output: 79690
+00:12:32.546: Output 'simple_stream': Total drawn frames: 79735 (79740 attempted)
+00:12:32.546: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 5 (0.0%)
+00:12:32.546: [rtmp stream: 'simple_stream'] Freeing 4 remaining packets
+00:12:32.547: Video stopped, number of skipped frames due to encoding lag: 5/79698 (0.0%)
+00:12:32.549: ==== Streaming Stop ================================================
+00:12:32.585: warning: 2 frames left in the queue on closing
+00:12:33.789: [jim-nvenc: 'simple_h264_recording'] settings:
+00:12:33.789: 	rate_control: CQP
+00:12:33.789: 	bitrate:      0
+00:12:33.789: 	cqp:          21
+00:12:33.789: 	keyint:       250
+00:12:33.789: 	preset:       hq
+00:12:33.789: 	profile:      high
+00:12:33.789: 	width:        1280
+00:12:33.789: 	height:       720
+00:12:33.789: 	2-pass:       false
+00:12:33.789: 	b-frames:     2
+00:12:33.789: 	lookahead:    false
+00:12:33.789: 	psycho_aq:    true
+00:12:33.789: 
+00:12:33.800: ---------------------------------
+00:12:33.800: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+00:12:33.800: 
+00:12:33.825: ==== Recording Start ===============================================
+00:12:33.825: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/White Fam/Videos/2020-07-10 00-12-33.mkv'...
+00:12:35.863: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+00:12:35.880: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+00:12:35.883: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+00:15:36.415: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+00:15:36.440: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+00:15:36.450: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+00:21:44.242: [game-capture: 'Cattura gioco - ApeX'] ----------------- d3d11 capture freed ----------------
+00:21:44.258: [game-capture: 'Cattura gioco - ApeX'] d3d11 shared texture capture successful
+00:21:44.266: [game-capture: 'Cattura gioco - ApeX'] shared texture capture successful
+00:21:50.361: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/White Fam/Videos/2020-07-10 00-12-33.mkv' stopped
+00:21:50.362: Output 'simple_file_output': stopping
+00:21:50.362: Output 'simple_file_output': Total frames output: 33382
+00:21:50.362: Output 'simple_file_output': Total drawn frames: 33388 (33392 attempted)
+00:21:50.362: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.0%)
+00:21:50.362: ==== Recording Stop ================================================
+00:21:50.362: Video stopped, number of skipped frames due to encoding lag: 4/33390 (0.0%)
+00:21:50.402: warning: 2 frames left in the queue on closing
+00:22:03.209: ==== Shutting down ==================================================
+00:22:03.488: Switched to scene '(null)'
+00:22:03.522: [game-capture: 'Cattura gioco - ApeX'] capture stopped
+00:22:03.523: WASAPI: Device 'Microphone (3- Trust GXT 232 Microphone)' Terminated
+00:22:03.828: WASAPI: Device 'VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)' Terminated
+00:22:03.832: All scene data cleared
+00:22:03.832: ------------------------------------------------
+00:22:03.942: Freeing OBS context data
+00:22:03.944: 	2 output(s) were remaining
+00:22:04.033: [Scripting] Total detached callbacks: 0
+00:22:04.074: == Profiler Results =============================
+00:22:04.074: run_program_init: 3813.61 ms
+00:22:04.074:  ┣OBSApp::AppInit: 45.68 ms
+00:22:04.074:  ┃ ┗OBSApp::InitLocale: 17.111 ms
+00:22:04.074:  ┗OBSApp::OBSInit: 3657.3 ms
+00:22:04.074:    ┣obs_startup: 6.92 ms
+00:22:04.074:    ┗OBSBasic::OBSInit: 3311.06 ms
+00:22:04.074:      ┣OBSBasic::InitBasicConfig: 0.454 ms
+00:22:04.074:      ┣OBSBasic::ResetAudio: 0.168 ms
+00:22:04.074:      ┣OBSBasic::ResetVideo: 581.456 ms
+00:22:04.074:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+00:22:04.074:      ┣OBSBasic::InitHotkeys: 0.046 ms
+00:22:04.074:      ┣obs_load_all_modules: 545.295 ms
+00:22:04.074:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.822 ms
+00:22:04.074:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.558 ms
+00:22:04.074:      ┃ ┣obs_init_module(enc-amf.dll): 32.56 ms
+00:22:04.074:      ┃ ┣obs_init_module(frontend-tools.dll): 5.101 ms
+00:22:04.074:      ┃ ┣obs_init_module(image-source.dll): 0.007 ms
+00:22:04.074:      ┃ ┣obs_init_module(logi_obs_plugin_x64.dll): 1.442 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-browser.dll): 0.322 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 38.626 ms
+00:22:04.074:      ┃ ┃ ┗nvenc_check: 38.575 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-filters.dll): 0.018 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-outputs.dll): 0.009 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-qsv11.dll): 138.98 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-text.dll): 0.367 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-transitions.dll): 0.012 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-vst.dll): 0.003 ms
+00:22:04.074:      ┃ ┣obs_init_module(obs-x264.dll): 0.003 ms
+00:22:04.074:      ┃ ┣obs_init_module(rtmp-services.dll): 7.691 ms
+00:22:04.074:      ┃ ┣obs_init_module(text-freetype2.dll): 0.21 ms
+00:22:04.074:      ┃ ┣obs_init_module(vlc-video.dll): 0.042 ms
+00:22:04.074:      ┃ ┣obs_init_module(win-capture.dll): 5.493 ms
+00:22:04.074:      ┃ ┣obs_init_module(win-decklink.dll): 2.24 ms
+00:22:04.074:      ┃ ┣obs_init_module(win-dshow.dll): 2.14 ms
+00:22:04.074:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+00:22:04.074:      ┃ ┣obs_init_module(win-wasapi.dll): 0.011 ms
+00:22:04.074:      ┃ ┗reset_win32_symbol_paths: 0.082 ms
+00:22:04.074:      ┣OBSBasic::ResetOutputs: 1.821 ms
+00:22:04.074:      ┣OBSBasic::CreateHotkeys: 0.047 ms
+00:22:04.074:      ┣OBSBasic::InitService: 12.511 ms
+00:22:04.074:      ┣OBSBasic::InitPrimitives: 0.091 ms
+00:22:04.074:      ┗OBSBasic::Load: 1470.79 ms
+00:22:04.074: obs_hotkey_thread(25 ms): min=0.003 ms, median=0.009 ms, max=164.202 ms, 99th percentile=0.08 ms, 99.9981% below 25 ms
+00:22:04.074: audio_thread(Audio): min=0 ms, median=0.403 ms, max=147.376 ms, 99th percentile=1.042 ms
+00:22:04.074:  ┗receive_audio: min=0.002 ms, median=0.381 ms, max=16.893 ms, 99th percentile=1.505 ms, 0.597548 calls per parent call
+00:22:04.074:    ┣buffer_audio: min=0 ms, median=0.002 ms, max=0.225 ms, 99th percentile=0.004 ms
+00:22:04.074:    ┗do_encode: min=0.008 ms, median=0.376 ms, max=16.887 ms, 99th percentile=1.502 ms
+00:22:04.074:      ┣encode(simple_aac_recording): min=0.009 ms, median=0.403 ms, max=5.196 ms, 99th percentile=2.227 ms, 0.100482 calls per parent call
+00:22:04.074:      ┗encode(simple_aac): min=0.008 ms, median=0.356 ms, max=4.111 ms, 99th percentile=1.31 ms, 0.899518 calls per parent call
+00:22:04.074: obs_graphics_thread(16.6667 ms): min=0.072 ms, median=0.758 ms, max=1364.86 ms, 99th percentile=1.282 ms, 99.9941% below 16.667 ms
+00:22:04.074:  ┣tick_sources: min=0.001 ms, median=0.033 ms, max=1364.51 ms, 99th percentile=0.326 ms
+00:22:04.074:  ┣output_frame: min=0.067 ms, median=0.451 ms, max=380.373 ms, 99th percentile=0.779 ms
+00:22:04.074:  ┃ ┗gs_context(video->graphics): min=0.067 ms, median=0.451 ms, max=380.372 ms, 99th percentile=0.778 ms
+00:22:04.074:  ┃   ┣render_video: min=0.004 ms, median=0.406 ms, max=148.875 ms, 99th percentile=0.718 ms
+00:22:04.074:  ┃   ┃ ┣render_main_texture: min=0.002 ms, median=0.128 ms, max=148.872 ms, 99th percentile=0.546 ms
+00:22:04.074:  ┃   ┃ ┣render_output_texture: min=0.003 ms, median=0.005 ms, max=0.318 ms, 99th percentile=0.015 ms, 0.602958 calls per parent call
+00:22:04.074:  ┃   ┃ ┣render_convert_texture: min=0.007 ms, median=0.017 ms, max=0.386 ms, 99th percentile=0.038 ms, 0.602958 calls per parent call
+00:22:04.074:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.057 ms, max=0.853 ms, 99th percentile=0.136 ms, 0.602958 calls per parent call
+00:22:04.074:  ┃   ┗gs_flush: min=0.019 ms, median=0.051 ms, max=380.316 ms, 99th percentile=0.174 ms
+00:22:04.074:  ┗render_displays: min=0 ms, median=0.254 ms, max=21.725 ms, 99th percentile=0.493 ms
+00:22:04.074: =================================================
+00:22:04.074: == Profiler Time Between Calls ==================
+00:22:04.074: obs_hotkey_thread(25 ms): min=24.108 ms, median=25.007 ms, max=189.042 ms, 94.219% within ±2% of 25 ms (0.00177629% lower, 5.77923% higher)
+00:22:04.074: obs_graphics_thread(16.6667 ms): min=1.058 ms, median=16.667 ms, max=1364.87 ms, 99.9813% within ±2% of 16.667 ms (0.00945088% lower, 0.00926913% higher)
+00:22:04.074: =================================================
+00:22:04.193: Number of memory leaks: 2
